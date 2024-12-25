@@ -1,3 +1,12 @@
+Name: Santhosh saravanan V
+
+ID : CS24NY359184
+
+Internship date : 25/12/2024 to 25/01/2025
+
+Batch name : DECEMBER BATCH A96
+
+Task Two :
 
 Quote of the Day App
 

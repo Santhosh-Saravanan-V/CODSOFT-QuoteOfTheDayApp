@@ -16,6 +16,7 @@ The Quote of the Day App is a simple, elegant, and inspiring application designe
 
 This project was developed using Flutter as the framework and Visual Studio Code (VS Code) as the integrated development environment (IDE).
 
+Minimal Git Repository: Only essential files like main.dart and pubspec.yaml were uploaded to the Git repository since the remaining files (such as Flutter's built-in configurations and auto-generated files) were excluded to keep the repository clean and concise.
 
 Objectives
 
